@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary builds
+build/
+dist/
+portable-crm-windows/
+*.rar
+*.zip
+*.exe
+*.spec
+
+# Backups and logs
+backups/
+*.log
+*.tmp
+*.bak*
+
+# SQLite temp files
+*.sqlite3-wal
+*.sqlite3-shm

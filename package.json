@@ -1,0 +1,13 @@
+{
+  "name": "callcenter-crm",
+  "version": "1.0.0",
+  "description": "این CRM برای اپراتورها هیچ نصب اضافه ای نمی خواهد. بهترین حالت این است که CRM فقط روی یک کامپیوتر اصلی/سرور اجرا شود و همه اپراتورها با مرورگر وارد شوند.",
+  "main": "flatpickr-fa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
